@@ -5,7 +5,7 @@
 - [ ] Add line color.
 - [ ] Add address search.
 - [ ] Solve Maipu ridge region.
-- [ ] Add metro train stations.
+- [ ] Add metrotren stations.
 - [ ] Learn about licenses.
 - [ ] Add usage.
 - [ ] Add intro.
