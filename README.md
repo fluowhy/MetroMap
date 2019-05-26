@@ -9,4 +9,6 @@
 - [ ] Learn about licenses.
 - [ ] Add usage.
 - [ ] Add intro.
+- [ ] Add requirements.
+- [ ] Add docstrings.
 - [ ] ...
