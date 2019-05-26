@@ -7,4 +7,4 @@
 - [ ] Solve Maipu ridge region.
 - [ ] Add metro train stations.
 - [ ] Learn about licenses.
-- [ ] 
+- [ ] ...
