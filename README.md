@@ -11,4 +11,5 @@
 - [ ] Add intro.
 - [ ] Add requirements.
 - [ ] Add docstrings.
+- [ ] Add jupyter titles.
 - [ ] ...
